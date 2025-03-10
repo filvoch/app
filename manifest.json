@@ -1,7 +1,7 @@
 {
     "name": "Painel de Estoque de TI",
     "short_name": "Estoque TI",
-    "start_url": "/sites/EstoqueHomologacao/SitePages/Homologacao3.0.aspx",  
+    "start_url": "https://bungeltd.sharepoint.com/sites/EstoqueHomologacao/SitePages/Homologacao3.0.aspx",  
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0d6efd",
