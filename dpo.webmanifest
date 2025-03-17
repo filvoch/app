@@ -2,7 +2,7 @@
 {
     "name": "Painel DPO",
     "short_name": "Painel Solicitação de DPO",
-    "start_url": "https://bungeltd.sharepoint.com/sites/testeRG2/SitePages/novoteste.aspx",  
+    "start_url": "https://bungeltd.sharepoint.com/sites/testeRG2/SitePages/PainelDPO.aspx",  
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0d6efd",
